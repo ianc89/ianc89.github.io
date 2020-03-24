@@ -1,1 +1,4 @@
 theme: jekyll-theme-midnight
+title: Machine Learning Projects
+description: A simple repository aimed at documenting some of the different attempts at machine learning in my spare time.
+show_downloads: false
