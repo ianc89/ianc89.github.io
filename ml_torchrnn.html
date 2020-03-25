@@ -1,0 +1,16 @@
+---
+layout: default
+title: Using Torch-RNN
+---
+<h1>Torch-RNN</h1>
+
+Setting up torch-rnn and other tools
+
+<ul>
+  {% for post in site.torchrnn %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,16 @@
+---
+layout: default
+title: Machine Learning Harry Potter
+---
+<h1>Harry Potter</h1>
+
+For this project, the plan was to use torch-rnn to learn from some Harry Potter texts and attempt to write something which is understandable.
+
+<ul>
+  {% for post in site.harrypotter %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
