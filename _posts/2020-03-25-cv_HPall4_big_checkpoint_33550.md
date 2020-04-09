@@ -17,6 +17,8 @@ categories: [harrypotter,ml]
         wordvec_size 150
 ```
 
+![Training loss](/images/cv_HPall4_big_checkpoint_33550.png)
+
 # Temperature : 0.1
 
 ```
