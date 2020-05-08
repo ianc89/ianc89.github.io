@@ -1,6 +1,6 @@
 ---                                                                                                                                                            
 layout: default
-categories: [harrypotter,ml]
+categories: [lovecraft,ml]
 ---
 
 ```
@@ -19,7 +19,7 @@ categories: [harrypotter,ml]
 
 ---                                                                                                                                                            
 layout: default
-categories: [harrypotter,ml]
+categories: [lovecraft,ml]
 ---
 
 ```

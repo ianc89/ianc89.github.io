@@ -1,6 +1,6 @@
 ---                                                                                                                                                            
 layout: default
-categories: [harrypotter,ml]
+categories: [scifi,ml]
 ---
 
 ```
